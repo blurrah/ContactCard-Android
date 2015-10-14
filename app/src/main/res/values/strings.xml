@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ContactCard</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="first_name"><b>Jan</b> Jansen</string>
+    <string name="keith_bakker"><b>Keith</b> Bakker</string>
+    <string name="title_activity_detail_view">DetailViewActivity</string>
+
+    <string name="list_view_name">Naam van persoon</string>
+    <string name="list_view_email">E-mail van persoon</string>
+
+    <string name="add_person_button">Add person</string>
+</resources>
